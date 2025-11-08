@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @mirasha04
+- 👋 Hi, I’m Mirasha Fernando
 - 👀 I’m interested in analyzing data
 - 🌱 I’m currently learning data analytics
 - 💞️ I’m looking to collaborate on projects related to data analytics
-- 📫 How to reach me on linkedIn
+- 📫 How to reach me on linkedIn - https://www.linkedin.com/in/mirasha-fernando-35101623a/
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I love swimming
 
